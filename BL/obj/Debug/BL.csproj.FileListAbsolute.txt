@@ -1,0 +1,27 @@
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\3 N-Tier Architectuur\Prak_Contracten\Prak_Contacten\BL\bin\Debug\BL.dll
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\3 N-Tier Architectuur\Prak_Contracten\Prak_Contacten\BL\bin\Debug\BL.pdb
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\3 N-Tier Architectuur\Prak_Contracten\Prak_Contacten\BL\bin\Debug\DAL.dll
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\3 N-Tier Architectuur\Prak_Contracten\Prak_Contacten\BL\bin\Debug\Domain.dll
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\3 N-Tier Architectuur\Prak_Contracten\Prak_Contacten\BL\bin\Debug\DAL.pdb
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\3 N-Tier Architectuur\Prak_Contracten\Prak_Contacten\BL\bin\Debug\Domain.pdb
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\3 N-Tier Architectuur\Prak_Contracten\Prak_Contacten\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\3 N-Tier Architectuur\Prak_Contracten\Prak_Contacten\BL\obj\Debug\BL.dll
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\3 N-Tier Architectuur\Prak_Contracten\Prak_Contacten\BL\obj\Debug\BL.pdb
+\\Mac\Home\Documents\GitHubVisualStudio\Prak_Contacten\BL\bin\Debug\BL.dll
+\\Mac\Home\Documents\GitHubVisualStudio\Prak_Contacten\BL\bin\Debug\BL.pdb
+\\Mac\Home\Documents\GitHubVisualStudio\Prak_Contacten\BL\bin\Debug\DAL.dll
+\\Mac\Home\Documents\GitHubVisualStudio\Prak_Contacten\BL\bin\Debug\Domain.dll
+\\Mac\Home\Documents\GitHubVisualStudio\Prak_Contacten\BL\bin\Debug\DAL.pdb
+\\Mac\Home\Documents\GitHubVisualStudio\Prak_Contacten\BL\bin\Debug\Domain.pdb
+\\Mac\Home\Documents\GitHubVisualStudio\Prak_Contacten\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\GitHubVisualStudio\Prak_Contacten\BL\obj\Debug\BL.dll
+\\Mac\Home\Documents\GitHubVisualStudio\Prak_Contacten\BL\obj\Debug\BL.pdb
+\\Mac\Home\Documents\GitHubVisualStudio\Prak_Contacten_DB\BL\bin\Debug\BL.dll
+\\Mac\Home\Documents\GitHubVisualStudio\Prak_Contacten_DB\BL\bin\Debug\BL.pdb
+\\Mac\Home\Documents\GitHubVisualStudio\Prak_Contacten_DB\BL\bin\Debug\DAL.dll
+\\Mac\Home\Documents\GitHubVisualStudio\Prak_Contacten_DB\BL\bin\Debug\Domain.dll
+\\Mac\Home\Documents\GitHubVisualStudio\Prak_Contacten_DB\BL\bin\Debug\DAL.pdb
+\\Mac\Home\Documents\GitHubVisualStudio\Prak_Contacten_DB\BL\bin\Debug\Domain.pdb
+\\Mac\Home\Documents\GitHubVisualStudio\Prak_Contacten_DB\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\GitHubVisualStudio\Prak_Contacten_DB\BL\obj\Debug\BL.dll
+\\Mac\Home\Documents\GitHubVisualStudio\Prak_Contacten_DB\BL\obj\Debug\BL.pdb

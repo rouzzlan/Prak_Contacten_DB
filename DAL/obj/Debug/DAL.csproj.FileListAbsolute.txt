@@ -1,0 +1,21 @@
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\3 N-Tier Architectuur\Prak_Contracten\Prak_Contacten\DAL\bin\Debug\DAL.dll
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\3 N-Tier Architectuur\Prak_Contracten\Prak_Contacten\DAL\bin\Debug\DAL.pdb
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\3 N-Tier Architectuur\Prak_Contracten\Prak_Contacten\DAL\bin\Debug\Domain.dll
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\3 N-Tier Architectuur\Prak_Contracten\Prak_Contacten\DAL\bin\Debug\Domain.pdb
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\3 N-Tier Architectuur\Prak_Contracten\Prak_Contacten\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\3 N-Tier Architectuur\Prak_Contracten\Prak_Contacten\DAL\obj\Debug\DAL.dll
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\3 N-Tier Architectuur\Prak_Contracten\Prak_Contacten\DAL\obj\Debug\DAL.pdb
+\\Mac\Home\Documents\GitHubVisualStudio\Prak_Contacten\DAL\bin\Debug\DAL.dll
+\\Mac\Home\Documents\GitHubVisualStudio\Prak_Contacten\DAL\bin\Debug\DAL.pdb
+\\Mac\Home\Documents\GitHubVisualStudio\Prak_Contacten\DAL\bin\Debug\Domain.dll
+\\Mac\Home\Documents\GitHubVisualStudio\Prak_Contacten\DAL\bin\Debug\Domain.pdb
+\\Mac\Home\Documents\GitHubVisualStudio\Prak_Contacten\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\GitHubVisualStudio\Prak_Contacten\DAL\obj\Debug\DAL.dll
+\\Mac\Home\Documents\GitHubVisualStudio\Prak_Contacten\DAL\obj\Debug\DAL.pdb
+\\Mac\Home\Documents\GitHubVisualStudio\Prak_Contacten_DB\DAL\bin\Debug\DAL.dll
+\\Mac\Home\Documents\GitHubVisualStudio\Prak_Contacten_DB\DAL\bin\Debug\DAL.pdb
+\\Mac\Home\Documents\GitHubVisualStudio\Prak_Contacten_DB\DAL\bin\Debug\Domain.dll
+\\Mac\Home\Documents\GitHubVisualStudio\Prak_Contacten_DB\DAL\bin\Debug\Domain.pdb
+\\Mac\Home\Documents\GitHubVisualStudio\Prak_Contacten_DB\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\GitHubVisualStudio\Prak_Contacten_DB\DAL\obj\Debug\DAL.dll
+\\Mac\Home\Documents\GitHubVisualStudio\Prak_Contacten_DB\DAL\obj\Debug\DAL.pdb

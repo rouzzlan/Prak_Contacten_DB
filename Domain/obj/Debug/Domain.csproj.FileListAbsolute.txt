@@ -1,0 +1,9 @@
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\3 N-Tier Architectuur\Prak_Contracten\Prak_Contacten\Domain\bin\Debug\Domain.dll
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\3 N-Tier Architectuur\Prak_Contracten\Prak_Contacten\Domain\bin\Debug\Domain.pdb
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\3 N-Tier Architectuur\Prak_Contracten\Prak_Contacten\Domain\obj\Debug\Domain.dll
+\\Mac\Dropbox\KdG\JAAR_4\programmeren 2 dotNet\3 N-Tier Architectuur\Prak_Contracten\Prak_Contacten\Domain\obj\Debug\Domain.pdb
+\\Mac\Home\Documents\GitHubVisualStudio\Prak_Contacten\Domain\bin\Debug\Domain.dll
+\\Mac\Home\Documents\GitHubVisualStudio\Prak_Contacten\Domain\bin\Debug\Domain.pdb
+\\Mac\Home\Documents\GitHubVisualStudio\Prak_Contacten\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\GitHubVisualStudio\Prak_Contacten\Domain\obj\Debug\Domain.dll
+\\Mac\Home\Documents\GitHubVisualStudio\Prak_Contacten\Domain\obj\Debug\Domain.pdb
