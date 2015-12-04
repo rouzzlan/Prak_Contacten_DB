@@ -1,2 +1,2 @@
 # Prak_Contacten
-support center vartiatie
+support center variatie
